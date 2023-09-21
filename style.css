@@ -16,7 +16,7 @@ body{
 }
  img{
     display:center;
-    
+    border-radius: 29px;
     width: 350px;
     padding:15px;
 
@@ -24,13 +24,12 @@ body{
  header{
     font-family: cursive;
         list-style: none;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
+        
 
  }
  header a{
     color: #ff7f50;
+    padding:20px;
     
  }
  .photo{
