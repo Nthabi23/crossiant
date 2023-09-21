@@ -3,6 +3,6 @@ ul{
     display:flex;
     flex-direction: row;
     justify-content: space-evenly;
-    text-decoration: none;
-    color:#ff7f50;
+text-decoration: none;
+    color: #ff7f50;
 }
