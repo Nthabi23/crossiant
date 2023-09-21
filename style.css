@@ -2,5 +2,7 @@ ul{
     list-style: none;
     display:flex;
     flex-direction: row;
-    justify-content: center space-evenly;
+    justify-content: space-evenly;
+    text-decoration: none;
+    color:#ff7f50;
 }
