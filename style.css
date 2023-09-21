@@ -1,4 +1,6 @@
-
+.cross{
+    text-decoration:none;
+}
 
 h1{
     font-family: cursive;
@@ -16,7 +18,7 @@ body{
     display:center;
     
     width: 350px;
-    padding:50px;
+    padding:15px;
 
  }
  header{
@@ -29,5 +31,8 @@ body{
  }
  header a{
     color: #ff7f50;
-    text-decoration: none;
+    
+ }
+ .photo{
+    font-size: 25px;
  }
